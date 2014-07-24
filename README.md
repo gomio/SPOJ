@@ -1,2 +1,1 @@
-mirepo
-======
+Soluciones a problemas de SPOJ.
